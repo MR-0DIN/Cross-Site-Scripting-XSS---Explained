@@ -18,3 +18,10 @@
 ](#Impact-of-stored-XSS-attacks)
   - [How to find and test for stored XSS vulnerabilities
 ](#How-to-find-and-test-for-stored-XSS-vulnerabilities)
+- [DOM-based XSS](#DOM-based-xss).
+  - [What is DOM-based cross-site scripting?](#What-is-DOM-based-cross---site-scripting?)
+  - [How to test for DOM-based cross-site scripting](#How-to-test-for-DOM---based-cross---site-scripting)
+  - [Exploiting DOM XSS with different sources and sinks](#Exploiting-DOM-XSS-with-different-sources-and-sinks)
+      -[DOM XSS in jQuery](DOM-XSS-in-jQuery)
+      -[DOM XSS in AngularJS](DOM-XSS-in-AngularJS)
+  -[Which sinks can lead to DOM-XSS vulnerabilities?](Which-sinks-can-lead-to-DOM---XSS-vulnerabilities?)
