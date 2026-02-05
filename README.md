@@ -6,20 +6,20 @@
 - [Methodology](#methodology)
 - [Reflected XSS](#reflected-xss).
   - [What is reflected cross-site scripting?](#what-is-reflected-cross---site-scripting?)
-  - [How to find and test for reflected XSS vulnerabilities](How-to-find-and-test-for-reflected-XSS-vulnerabilities)
+  - [How to find and test for reflected XSS vulnerabilities](#How-to-find-and-test-for-reflected-XSS-vulnerabilities)
 - [Stored XSS](#stored-xss).
-  - [What is stored cross-site scripting?](What-is-stored-cross---site-scripting?)
-  - [How to find and test for stored XSS vulnerabilities](How-to-find-and-test-for-stored-XSS-vulnerabilities)
-- [DOM-based XSS](DOM-based-xss).
-  - [What is DOM-based cross-site scripting?](What-is-DOM-based-cross---site-scripting?)
-  - [How to test for DOM-based cross-site scripting](How-to-test-for-DOM---based-cross---site-scripting)
-  - [Exploiting DOM XSS with different sources and sinks](Exploiting-DOM-XSS-with-different-sources-and-sinks)
-  - [Which sinks can lead to DOM-XSS vulnerabilities?](Which-sinks-can-lead-to-DOM---XSS-vulnerabilities?)
-  - [Common WAF Bypass](Common-WAF-Bypass)
-  - [CSP Bypass](CSP-Bypass)
-  - [Common CSP Directives](Common-CSP-Directives)
-  - [Common CSP Values](Common-CSP-Values)
-  - [How CSP Can Be Bypassed](How-CSP-Can-Be-Bypassed)
+  - [What is stored cross-site scripting?](#What-is-stored-cross---site-scripting?)
+  - [How to find and test for stored XSS vulnerabilities](#How-to-find-and-test-for-stored-XSS-vulnerabilities)
+- [DOM-based XSS](#DOM-based-xss).
+  - [What is DOM-based cross-site scripting?](#What-is-DOM-based-cross---site-scripting?)
+  - [How to test for DOM-based cross-site scripting](#How-to-test-for-DOM---based-cross---site-scripting)
+  - [Exploiting DOM XSS with different sources and sinks](#Exploiting-DOM-XSS-with-different-sources-and-sinks)
+  - [Which sinks can lead to DOM-XSS vulnerabilities?](#Which-sinks-can-lead-to-DOM---XSS-vulnerabilities?)
+  - [Common WAF Bypass](#Common-WAF-Bypass)
+  - [CSP Bypass](#CSP-Bypass)
+  - [Common CSP Directives](#Common-CSP-Directives)
+  - [Common CSP Values](#Common-CSP-Values)
+  - [How CSP Can Be Bypassed](#How-CSP-Can-Be-Bypassed)
 
 ## Methodology
 > XSS allows attackers to inject malicious code into a website, which is then executed in the browser of anyone who visits the site. This can allow attackers to steal sensitive information, such as user login credentials, or to perform other malicious actions.
