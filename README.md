@@ -5,7 +5,7 @@
 ## Summary
 - [Methodology](#methodology)
 - [Reflected XSS](#reflected-xss).
-  - [What is reflected cross-site scripting?](##what-is-reflected-cross---site-scripting?)
+  - [What is reflected cross-site scripting?](#what-is-reflected-cross---site-scripting?)
   - [How to find and test for reflected XSS vulnerabilities](How-to-find-and-test-for-reflected-XSS-vulnerabilities)
 - [Stored XSS](#stored-xss).
   - [What is stored cross-site scripting?](What-is-stored-cross---site-scripting?)
