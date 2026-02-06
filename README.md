@@ -20,9 +20,9 @@
   - [Common CSP Directives](#Common-CSP-Directives)
   - [Common CSP Values](#Common-CSP-Values)
   - [How CSP Can Be Bypassed](#How-CSP-Can-Be-Bypassed)
-  - [Tools](#tools)
-  - [References](#references)
-  - [Resources](#resources)
+- [Tools](#tools)
+- [References](#references)
+- [Resources](#resources)
 
 ## Methodology
 > XSS allows attackers to inject malicious code into a website, which is then executed in the browser of anyone who visits the site. This can allow attackers to steal sensitive information, such as user login credentials, or to perform other malicious actions.
